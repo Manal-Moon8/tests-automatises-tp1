@@ -56,7 +56,7 @@ curl http://127.0.0.1:5000/api/user/test_user
 curl -X DELETE http://127.0.0.1:5000/api/user/test_user
 ```
 
-## Exécuter les tests (après les avoir écris 😜)
+## Exécuter les tests (après les avoir écris )
 
 ```bash
 # Exécuter tous les tests
